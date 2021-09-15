@@ -73,3 +73,28 @@
     width: 100%;
     margin-top: 150px;
 }
+#heading {
+    font-size: 400%;
+    text-align: center;
+}
+#email {
+    font-family: sans-serif;
+    width: 30%;
+    padding-bottom: 0.4%;
+    padding-top: 0.4%;
+
+    margin-left: 1%;
+    font-size: 150%;    
+}
+#submit {
+    width: 8%;
+    padding: 0.8% 0%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-size: 100%;
+    color: #757575;
+}
+#submit:hover{
+    cursor: pointer;
+    
+}
